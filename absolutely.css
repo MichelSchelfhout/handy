@@ -26,6 +26,7 @@ body {
 	position: absolute;
 	top: 45px;
 	left: 610px;
+	transition: 0.3s ease;
 }
 
 #saw{
@@ -40,7 +41,7 @@ body {
 	position: absolute;
 	top: 240px;
 	left: 540px;
-	transition: 0.3 ease;
+	transition: 0.3s ease;
 }
 
 #hammer{
@@ -55,7 +56,7 @@ body {
 	position: absolute;
 	top: 35px;
 	left: 1090px;
-	transition: 0.3 ease;
+	transition: 0.3s ease;
 }
 
 #pincers{
@@ -70,7 +71,7 @@ body {
 	position: absolute;
 	top: 360px;
 	left: 1170px;
-	transition: 0.3 ease;
+	transition: 0.3s ease;
 }
 
 #screwdriver{
@@ -176,7 +177,7 @@ ul a {
 
 	margin-top: 0;
 	background: linear-gradient(to bottom, rgba(0,0,0,1), rgba(127,127,127, 0.7));
-	width: 60%;
+	width: 100%;
 	margin: 0 auto;
 	height: 25px;
 }
